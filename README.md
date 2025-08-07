@@ -3,4 +3,4 @@
 ## exp-project
 ## Данные: Telco Customer Churn 
 ## Python (Pandas, Scikit-learn)
-## Описание:
+## Описание: будет написано позже, как только большая часть будет написана.
